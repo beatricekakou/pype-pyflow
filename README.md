@@ -1,5 +1,5 @@
 
-<h1>Pipe-PyFlow: A Python ETL pipeline project</h1>
+<h1>Pipe-pyflow: a Python ETL pipeline project</h1>
 
 <h1>Project Overview</h1>
 Pipe-PyFlow serves to help me exploring the world of computer science, and in this case, of Extract, Transform, Load (ETL) pipelines using Python.
